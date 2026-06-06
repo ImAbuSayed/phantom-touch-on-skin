@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phantom-touch-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Phantom Touch On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-touch-on-skin/) |
+| **Get License** | [Official Music Licensing for Phantom Touch On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-touch-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel it when the night moves in
+> A phantom touch on my burning skin
+> You leave a trail that I can't erase
+> A sudden heat in this empty space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
