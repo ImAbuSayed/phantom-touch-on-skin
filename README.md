@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/phantom-touch-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Phantom Touch On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-touch-on-skin/) |
+| **Get License** | [Obtain a Music License for Phantom Touch On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/phantom-touch-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1182cce4f9d3bdac8ae5fef7512a78e2fb5ec01431f6d5014f9792ea590cc486` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
